@@ -1,0 +1,2 @@
+# kizuna_form_auto_reply
+絆会の入会フォームでの自動返信プログラム
